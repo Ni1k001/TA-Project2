@@ -1,0 +1,4 @@
+﻿  TA-Project2.cpp
+H:\Visual Studio\Projects - 2019\TA-Project2\TA-Project2.cpp(13,72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\Visual Studio\Projects - 2019\TA-Project2\TA-Project2.cpp(14,6): warning C4101: 'randValue': unreferenced local variable
+  TA-Project2.vcxproj -> H:\Visual Studio\Projects - 2019\TA-Project2\Debug\TA-Project2.exe
